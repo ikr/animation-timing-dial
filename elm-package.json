@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "summary": "A GUI control (widget) for adjusting the flow of a graphical animation",
+    "repository": "https://github.com/ikr/animation-timing-dial.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "1.1.1 <= v < 2.0.0"
+    }
+}
